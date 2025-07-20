@@ -18,7 +18,7 @@ From developing machine learning pipelines to building user-facing apps with Str
 
 ### 🔹 Languages & Fundamentals
 - Python (Primary)
-- C++, SQL
+- SQL
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms (DSA)
 
